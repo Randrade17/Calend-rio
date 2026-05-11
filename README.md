@@ -1,4 +1,4 @@
-Calendário Funcional em Python
+Calendario Funcional em Python
 
 Este script cria uma interface gráfica de calendário utilizando o módulo Tkinter.
 
